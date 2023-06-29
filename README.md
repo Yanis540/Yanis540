@@ -93,6 +93,12 @@
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yanis Tabellout" height="30" width="40" />
     </a>
 </p>
+## ✨ Portfolio ✨
+<p align="left">
+    <a href="https://portfolio-ps6joybbb-yanis540.vercel.app" target="blank">
+        <img align="center" src="https://github.com/ionic-team/ionicons/blob/main/src/svg/logo-vercel.svg" alt="Yanis's portfolio" height="30" width="40" />
+    </a>
+</p>
 
 <!--
 **Yanis540/Yanis540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
