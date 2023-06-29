@@ -97,7 +97,7 @@
 ## ✨ Portfolio ✨
 
 <p align="left">
-    <a href="https://portfolio-ps6joybbb-yanis540.vercel.app" target="blank">
+    <a href="https://portfolio-yanis540.vercel.app" target="blank">
         <img align="center" src="https://github.com/ionic-team/ionicons/blob/main/src/svg/logo-vercel.svg" alt="Yanis's portfolio" height="30" width="40" />
     </a>
 </p>
