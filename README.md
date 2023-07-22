@@ -1,7 +1,14 @@
 ### Hi 👋
 # I'm Yanis Tabellout <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
-
+<!--
 #### I'm a Software enginner student at USTHB, Full stack Web Developer and Artificial Intelligence and cybersecurity enthousiast.
+-->
+<p align="center">
+<img src="https://i.pinimg.com/originals/de/7b/d6/de7bd6a32ee6aba8ab6da671aa4df54b.gif">
+</p>
+<p align="center">
+<img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Full+Stack+Web+and+Mobile+Developper+💻;Sorbonne+University+Software+Engineer+🖊️;Love's+Coding+in+General" alt="Typing SVG" />
+</p>
 
 ## 🔧 Technologies & Tools
 <p align="left">
