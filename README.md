@@ -10,6 +10,32 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Full+Stack+Web+and+Mobile+Developper+💻;Sorbonne+University+Software+Engineer+🖊️;Love's+Coding+in+General" alt="Typing SVG" />
 </p>
 
+
+## &#x1f4c8; GitHub Stats
+<div align="center" style="display:flex;flex-direction:column;justify-content: center;align-items:center; ">
+<p href="https://github.com/Yanis540/Yanis540.git">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Yanis540&hide_border=true" alt="Yanis's GitHub Stats" />
+</p>
+<div style="display: flex; flex-direction: row; justify-content: center; align-items: center;">
+<table style="margin: 0 auto; border-style: none; border:0px solid transparent; width:100%">
+  <tr>
+    <td>
+        <p href="https://github.com/Yanis540/Yanis540.git">
+          <img align="center" src="https://github-readme-stats-qtox63kfj-yanis540.vercel.app/api?username=Yanis540&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Yanis's GitHub Stats" />
+        </p>
+    </td>
+    <td>
+        <p href="https://github.com/Yanis540/Yanis.git">
+          <img align="center" src="https://github-readme-stats-qtox63kfj-yanis540.vercel.app/api/top-langs/?username=Yanis540&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
+        </p>
+    </td>
+      
+  </tr> 
+</table>
+</div>
+</div>
+
+
 ## 🔧 Technologies & Tools
 <p align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -83,14 +109,6 @@
     </a> 
 </p>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/Yanis540/Yanis540.git">
-  <img align="center" src="https://github-readme-stats-qtox63kfj-yanis540.vercel.app/api?username=Yanis540&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Yanis's GitHub Stats" />
-</a>
-<a href="https://github.com/Yanis540/Yanis.git">
-  <img align="center" src="https://github-readme-stats-qtox63kfj-yanis540.vercel.app/api/top-langs/?username=Yanis540&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
-</a>
 
 
 ## 📲 Social Media Accounts
