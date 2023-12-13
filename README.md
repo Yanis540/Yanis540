@@ -24,11 +24,13 @@
           <img align="center" src="https://github-readme-stats-qtox63kfj-yanis540.vercel.app/api?username=Yanis540&hide_border=true&count_private=true&show_icons=true&theme=gotham" alt="Yanis's GitHub Stats" />
         </p>
     </td>
+    <!-- 
     <td>
         <p href="https://github.com/Yanis540/Yanis.git">
           <img align="center" src="https://github-readme-stats-qtox63kfj-yanis540.vercel.app/api/top-langs/?username=Yanis540&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
         </p>
     </td>
+    -->
       
   </tr> 
 </table>
