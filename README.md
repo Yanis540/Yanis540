@@ -3,6 +3,32 @@
 <!--
 #### I'm a Software enginner student at USTHB, Full stack Web Developer and Artificial Intelligence and cybersecurity enthousiast.
 -->
+
+
+- Professional Platforms : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-tabellout-323a64254/) 
+<details>
+<summary>🎓 About Me</summary>
+
+- 🎓 Full Stack Developper &  Master's in software engineering at Sorbonne université 
+- 🚀 Interested in Software engineering, Data Science, CyberSecurity
+- 🌍 Passionate about learning
+- 📧 Contact: yanistabellout4@gmail.com
+<div align="center">
+  <a href="https://github.com/Yanis540">
+    <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
+  </a>
+</div>
+
+
+<label>Visitors :</label> <br>
+![Visitor Count](https://profile-counter.glitch.me/Yanis540/count.svg)
+
+</details>
+
+
+
+
+
 <p align="center">
 <img src="https://i.pinimg.com/originals/de/7b/d6/de7bd6a32ee6aba8ab6da671aa4df54b.gif">
 </p>
@@ -10,6 +36,34 @@
 <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Full+Stack+Web+and+Mobile+Developper+💻;Sorbonne+University+Software+Engineer+🖊️;Love's+Coding+in+General" alt="Typing SVG" />
 </p>
 
+
+<p align="center">
+<a href="https://github.com/IbLahlou">
+	<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api?username=Yanis540&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000"
+		media="(prefers-color-scheme: light)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api?username=Yanis540&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000">
+	</picture>
+</a>
+<a href="https://github.com/Yanis540">
+	<picture>
+	<source
+		srcset="https://github-readme-stats.vercel.app/api/top-langs?username=Yanis540&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc&card_width=340px"
+		media="(prefers-color-scheme: light)"
+	/>
+	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanis540&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc,java&card_width=340px">
+	</picture>
+</a>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanis540&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 95%;" />
+</p>
+
+
+
+<!-- 
 
 ## &#x1f4c8; GitHub Stats
 <div align="center" style="display:flex;flex-direction:column;justify-content: center;align-items:center; ">
@@ -30,13 +84,13 @@
           <img align="center" src="https://github-readme-stats-qtox63kfj-yanis540.vercel.app/api/top-langs/?username=Yanis540&hide_border=true&count_private=true&show_icons=true&theme=gotham&langs_count=3" />
         </p>
     </td>
-    -->
+    --  >
       
   </tr> 
 </table>
 </div>
 </div>
-
+-->
 
 ## 🔧 Technologies & Tools
 <p align="left">
@@ -111,15 +165,6 @@
     </a> 
 </p>
 
-
-
-## 📲 Social Media Accounts
-
-<p align="left">
-    <a href="https://www.linkedin.com/in/yanis-tabellout-323a64254/" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Yanis Tabellout" height="30" width="40" />
-    </a>
-</p>
 
 ## ✨ Portfolio ✨
 
