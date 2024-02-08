@@ -32,11 +32,14 @@
 <p align="center">
 <img src="https://i.pinimg.com/originals/de/7b/d6/de7bd6a32ee6aba8ab6da671aa4df54b.gif">
 </p>
+
 <p align="center">
 <img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=64FFDA&center=true&vCenter=true&width=500&lines=Full+Stack+Web+and+Mobile+Developper+💻;Sorbonne+University+Software+Engineer+🖊️;Love's+Coding+in+General" alt="Typing SVG" />
 </p>
 
-
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanis540&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 95%;" />
+</p>
 <p align="center">
 <a href="https://github.com/IbLahlou">
 	<picture>
@@ -56,10 +59,8 @@
 	<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanis540&show_icons=true&theme=github_dark&hide_border=true&bg_color=00000000&layout=compact&langs_count=8&hide=yacc,java&card_width=340px">
 	</picture>
 </a>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanis540&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 95%;" />
 </p>
+
 
 
 
