@@ -41,7 +41,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yanis540&show_icons=true&theme=github_dark&hide_border=true" alt="Streak" style="width: 95%;" />
 </p>
 <p align="center">
-<a href="https://github.com/IbLahlou">
+<a href="https://github.com/Yanis540">
 	<picture>
 	<source
 		srcset="https://github-readme-stats.vercel.app/api?username=Yanis540&show_icons=true&theme=github_light&hide_border=true&bg_color=00000000"
