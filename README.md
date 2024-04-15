@@ -5,6 +5,7 @@
 -->
 
 
+- Portfolio : [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-yanis540.vercel.app) 
 - Professional Platforms : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yanis-tabellout-323a64254/) 
 <details>
 <summary>🎓 About Me</summary>
@@ -166,7 +167,7 @@
     </a> 
 </p>
 
-
+<!--
 ## ✨ Portfolio ✨
 
 <p align="left">
@@ -174,7 +175,7 @@
         <img align="center" src="https://github.com/ionic-team/ionicons/blob/main/src/svg/logo-vercel.svg" alt="Yanis's portfolio" height="30" width="40" />
     </a>
 </p>
-
+-->
 <!--
 **Yanis540/Yanis540** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
