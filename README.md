@@ -14,13 +14,14 @@
 - 🚀 Interested in Software engineering, Data Science, CyberSecurity
 - 🌍 Passionate about learning
 - 📧 Contact: yanistabellout4@gmail.com
+<!--
 <div align="center">
   <a href="https://github.com/Yanis540">
     <img src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" alt="snake" />
   </a>
 </div>
 
-
+-->
 <label>Visitors :</label> <br>
 ![Visitor Count](https://profile-counter.glitch.me/Yanis540/count.svg)
 
